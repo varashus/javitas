@@ -1,0 +1,50 @@
+Yamaha;YZF R1;299;6,8;998;teleszkóp
+Kawasaki;Ninja ZX-10R;294;7,1;998;rugós villa
+Honda;CBR1000RR;291;6,9;999;teleszkóp
+Ducati;Panigale V4;305;6,5;1103;teleszkóp
+Suzuki;GSX-R1000;299;7,0;999;rugós villa
+BMW;S1000RR;303;6,6;999;teleszkóp
+Aprilia;RSV4;290;7,2;1078;teleszkóp
+KTM;RC8 R;280;7,5;1190;rugós villa
+MV Agusta;F4 RR;297;7,3;998;teleszkóp
+Triumph;Daytona 765;272;6,8;765;teleszkóp
+Yamaha;YZF R6;262;6,7;599;teleszkóp
+Kawasaki;Ninja ZX-6R;249;6,9;636;rugós villa
+Honda;CBR600RR;261;6,5;599;teleszkóp
+Ducati;Panigale V2;270;6,3;955;teleszkóp
+Suzuki;GSX-R750;266;6,6;750;rugós villa
+BMW;S1000RR;279;6,8;999;teleszkóp
+Aprilia;RSV4 RF;286;7,0;1078;teleszkóp
+KTM;RC 390;179;3,4;373;teleszkóp
+Yamaha;YZF R3;185;3,2;321;teleszkóp
+Kawasaki;Ninja 400;190;3,0;399;rugós villa
+Honda;CBR500R;178;3,5;471;teleszkóp
+Ducati;Panigale V4 Speciale;312;6,2;1103;teleszkóp
+Suzuki;SV650;205;5,0;645;teleszkóp
+BMW;S1000RR;280;6,7;999;teleszkóp
+Aprilia;RSV4 RR;280;6,8;1078;teleszkóp
+Yamaha;MT-07;182;5,0;689;teleszkóp
+Kawasaki;Z900;225;5,4;948;teleszkóp
+Honda;CB650R;212;4,9;649;teleszkóp
+Ducati;Monster 821;230;5,7;821;teleszkóp
+Suzuki;GSX-S750;213;5,2;749;teleszkóp
+BMW;F 900 R;220;5,5;895;teleszkóp
+Aprilia;Tuono V4 1100 Factory;280;6,9;1077;teleszkóp
+Yamaha;MT-09;225;5,8;847;teleszkóp
+Kawasaki;Z650;200;5,1;649;teleszkóp
+Honda;CB500F;180;3,8;471;teleszkóp
+Ducati;Monster 797;195;4,5;803;teleszkóp
+Suzuki;SV650X;200;5,3;645;teleszkóp
+BMW;G 310 R;143;3,3;313;teleszkóp
+Aprilia;Shiver 900;209;5,7;896;teleszkóp
+Yamaha;XSR900;215;5,6;847;teleszkóp
+Kawasaki;W800;180;5,5;773;teleszkóp
+Honda;CB1100EX;200;5,8;1140;teleszkóp
+Ducati;Scrambler Icon;190;5,2;803;teleszkóp
+Suzuki;Boulevard M109R;240;6,2;1783;teleszkóp
+BMW;R nineT;200;5,6;1170;teleszkóp
+Aprilia;Dorsoduro 900;225;5,9;896;teleszkóp
+Yamaha;MT-10;255;6,5;998;teleszkóp
+Kawasaki;Z1000;240;6,3;1043;teleszkóp
+Honda;CB1000R;230;6,4;998;teleszkóp
+Ducati;Diavel 1260;249;6,7;1262;teleszkóp

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RigoDavidDoga231016/1.0.0": {
+        "runtime": {
+          "RigoDavidDoga231016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RigoDavidDoga231016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

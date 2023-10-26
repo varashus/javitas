@@ -1,0 +1,32 @@
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.csproj.AssemblyReference.cache
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.AssemblyInfoInputs.cache
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.AssemblyInfo.cs
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.exe
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.deps.json
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.runtimeconfig.json
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.runtimeconfig.dev.json
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.dll
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\ref\RigoDavidDoga231016.dll
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.pdb
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.dll
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\ref\RigoDavidDoga231016.dll
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.pdb
+C:\Users\Ny19RigóD\source\repos\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.genruntimeconfig.cache
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.exe
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.deps.json
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.runtimeconfig.json
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.runtimeconfig.dev.json
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.dll
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\ref\RigoDavidDoga231016.dll
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\bin\Debug\net5.0\RigoDavidDoga231016.pdb
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.csproj.AssemblyReference.cache
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.AssemblyInfoInputs.cache
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.AssemblyInfo.cs
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.csproj.CoreCompileInputs.cache
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.dll
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\ref\RigoDavidDoga231016.dll
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.pdb
+G:\DOLGOZATOK\12B2 TZ terepjárók, motorok\RigoDavidDoga231016\RigoDavidDoga231016\RigoDavidDoga231016\obj\Debug\net5.0\RigoDavidDoga231016.genruntimeconfig.cache
