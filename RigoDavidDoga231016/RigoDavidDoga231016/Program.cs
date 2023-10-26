@@ -15,36 +15,39 @@ namespace RigoDavidDoga231016
                 (
                 path: @"..\..\..\src\motorok.txt",
                 encoding: System.Text.Encoding.UTF8
-                ); //NINCS USING BLOKKOD, NINCS LEZÁRVA A FÁJLOD
+                ); 
             while (!sr.EndOfStream)
             {
                 motorok.Add(new Motor(sr.ReadLine()));
             }
-            //NINCS KIÍRÁS
+           
             Console.WriteLine($"1: {Atlag(motorok)}");
 
             Console.WriteLine(nagyobbmintezer(motorok));
             legkisebb(motorok).ToString();
 
             bmw(motorok).ToString();
-            //ITT SINCS LEZÁRVA A FÁJL
+            
             using StreamWriter writer = new StreamWriter
                 (
                 path: @"..\..\..\src\uj.txt",
                 append:false
                 );
-            writer.WriteLine(utso(motorok));
 
-
+            foreach (var x in motorok)
+            {
+                writer.WriteLine($"{x.gyarto} {x.modell}{x.gallon}");
+            }
+            
 
 
 
         }
 
-        static int Atlag(List<Motor>motorok) 
+        static double Atlag(List<Motor>motorok) 
         {
             
-            int atlag = (int)Math.Round(motorok.Average(m => m.fogyasztas)); //NE ERŐLTESD AZ INT-ET
+            var atlag =  Math.Round(motorok.Average(m => m.fogyasztas)); //NE ERŐLTESD AZ INT-ET
             return atlag;
 
         }
@@ -78,26 +81,21 @@ namespace RigoDavidDoga231016
         }
         static void ize(List<Motor> motorok)
         {
-            var suzuki = (motorok.Select(m => m.gyarto == "Suzuki"));//NE ERŐLTESD A MEGKAPOTT ÉRTÉK FORMÁJÁNAK ÁTALAKÍTÁSÁT
-            //VAGY AZ EGÉSZ OBJEKTUMOT KERESSÜK, AKKOR: mOTOR A TÍPUSA;
-            //VAGY EGY MEZŐJÉT KERESSÜK, AKKOR A MEZŐ TÍPUSA AZ EREDMÉNY
-            //VAGY EGY LISTA JÖN KI, AKKOR A LISTA TÍPUSA MOTOR
-            //MÁS ESETRE NINCS SZÜKSÉG SZINTE
+            var suzuki = (motorok.Select(m => m.gyarto == "Suzuki"));
+            
             string bmw = (motorok.Where(m => m.gyarto == "bmw").ToString());
 
           
         }
         static string bmw(List<Motor> motorok)
         {
-            string moto = Convert.ToString(motorok.Select(m => m.gyarto == "BMW"));//AZ ILYET LISTÁBA SZOKTUK TENNI, OLYAN, MINT EGY ADATBÁZIS LEKÉRDEZÉS
-            //A TOSTRING NEM HASZNOS, NEM IS MŰKÖDIK ITT - ÉS SAJNOS NEM AD SZINTAKTIKAI HIBÁT
-            //A SELECT EGYÉBKÉNT IS RITKÁBBAN HASZNOS
+            string moto = Convert.ToString(motorok.Select(m => m.gyarto == "BMW"));
+            
 
-            int max = Convert.ToInt32(motorok.Where(m => m.maxseb > 300)); //LINQ-BAN NEMIGEN SZOKTUNK KONVERTÁLNI, MERT NEM KELL;
-                                                                           //RÁ KELL JÖNNÖD, HOGY JOBB OLDALON MILYEN TÍPUS JÖN KI
+            var max = (motorok.Where(m => m.maxseb > 300)); 
             foreach (var x in motorok)
             {
-                if (x.gyarto == moto || x.maxseb == max)
+                if (x.gyarto == moto)
                 {
                     Console.WriteLine($"{x.gyarto} {x.modell}");
                 }
@@ -110,19 +108,7 @@ namespace RigoDavidDoga231016
 
 
 
-        static int utso(List<Motor> motorok) //EZT NEM KELLETT VOLNA ALPROGRAMBAN MEGÍRNI
-        {
-            int cucc = 0;
-            foreach (var x in motorok)
-            {
-               
-                    cw.WriteLine($"{x.gyarto} {x.modell}{x.gallon}"); //FÁJLBA KELLETT VOLNA
-                
-            }
-
-            return cucc;
-        }
-
+      
 
 
 

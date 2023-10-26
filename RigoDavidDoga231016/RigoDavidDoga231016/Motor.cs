@@ -21,13 +21,13 @@ namespace RigoDavidDoga231016
 
         }
 
-        public string gyarto { get; protected set; } //(NEM INDOKOLT A PROTECTED, NINCS GYEREKOSZTÁLY)
-        public string modell { get; private set; }
-        public int maxseb { get; private set; }
-        public double fogyasztas { get; private set; }
-        public Double urtartalom { get; private set; }
-        public string felfugg { get; private set; }
-        public double gallon  { get; private set; }
+        public string gyarto { get; set; } //(NEM INDOKOLT A PROTECTED, NINCS GYEREKOSZTÁLY)
+        public string modell { get;  set; }
+        public int maxseb { get;  set; }
+        public double fogyasztas { get;  set; }
+        public Double urtartalom { get;  set; }
+        public string felfugg { get;  set; }
+        public double gallon  { get; set; }
         public override string ToString()
         {
             

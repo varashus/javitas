@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "syj/V4PAzLVoeQefI927G9qe72e1aRETmulRb2gd9cPFV4Zm6U1X0yUVssgUl+S+AVjI1aFReQSMPeCkvig3GQ==",
+  "dgSpecHash": "jXa3aIF1sNyRwTEceRDlzpsMVzsvOvcxMn5Nm9gtNRcK1zB/AKowPtXgXQmBzsdUTWOlj3JB7K72wraKNJYsUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ny19RigóD\\Desktop\\RigoDavidDoga231016\\RigoDavidDoga231016\\RigoDavidDoga231016.csproj",
+  "projectFilePath": "C:\\Users\\MenőManó\\Source\\Repos\\varashus\\javitas\\RigoDavidDoga231016\\RigoDavidDoga231016\\RigoDavidDoga231016.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ny19RigóD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Ny19RigóD\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Ny19RigóD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Ny19RigóD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\MenőManó\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MenőManó\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MenőManó\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MenőManó\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
